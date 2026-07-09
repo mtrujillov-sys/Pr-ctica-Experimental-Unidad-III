@@ -1,0 +1,23 @@
+## 2. Fundamento Teórico
+
+### 2.1 Marco normativo aplicado a la especificación de requisitos
+
+La especificación de requisitos de software se encuentra regulada internacionalmente por la norma **IEEE/ISO/IEC 29148:2018** [1], la cual sustituyó al estándar **IEEE 830:1998** y unificó los procesos de ingeniería de requisitos dentro del ciclo de vida de sistemas y software.
+
+Esta norma distingue cuatro documentos principales según el nivel de abstracción:
+
+- **StRS (Stakeholder Requirements Specification)**
+- **SyRS (System Requirements Specification)**
+- **SRS (Software Requirements Specification)**
+- **OpsCon (Operational Concept)**
+
+El presente documento corresponde al nivel **SRS**, dado que detalla los requisitos de software del sistema **FabroGym**.
+
+La calidad de la especificación se evalúa con base en los atributos definidos por **ISO/IEC 25010:2023** [4], en particular:
+
+- Completitud.
+- Consistencia.
+- Verificabilidad.
+- Trazabilidad.
+
+Por otra parte, **IEEE/ISO/IEC 15288:2023** [2] aporta el marco de trazabilidad entre los requisitos del sistema y los requisitos de software, mientras que **IEEE/ISO/IEC 12207:2017** [3] regula los procesos del ciclo de vida del software en los que se enmarca la actividad de especificación.
