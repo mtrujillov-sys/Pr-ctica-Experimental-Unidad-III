@@ -1,0 +1,85 @@
+# Índice
+
+## Historial de versiones
+
+## 1. Introducción
+
+## 2. Fundamento Teórico
+- 2.1 Marco normativo aplicado a la especificación de requisitos
+- 2.2 Documentación de requisitos
+- 2.3 Documento ERS/SRS según IEEE/ISO/IEC 29148:2018
+- 2.4 Modelos de datos (perspectiva de datos)
+- 2.5 Modelos funcionales (perspectiva funcional)
+- 2.6 Modelos de comportamiento (perspectiva de comportamiento)
+- 2.7 Interrelaciones entre las tres perspectivas
+
+## 3. Paso 1 – Revisión y Refinamiento del SRS Parcial
+- 3.1 Línea base de requisitos (previa a la revisión)
+- 3.2 Registro de defectos detectados
+- 3.3 Requisitos corregidos con sintaxis EARS
+- 3.4 Tabla de atributos de Requisitos Funcionales y No Funcionales
+
+## 4. Paso 2 – Modelo de Datos (Perspectiva de Datos)
+- 4.1 Entidades y atributos
+- 4.2 Relaciones
+- 4.3 Diagrama de Clases UML
+
+## 5. Paso 3 – Modelo Funcional (Perspectiva Funcional)
+- 5.1 Diagrama de Contexto (DFD Nivel 0)
+- 5.2 DFD Nivel 1
+- 5.3 DFD Esencial
+- 5.4 Diagrama de Actividades UML
+
+## 6. Paso 4 – Modelo de Comportamiento (Perspectiva de Comportamiento)
+- 6.1 Diagrama de Máquina de Estados UML
+- 6.2 Diagrama de Secuencia UML
+
+## 7. Paso 5 – Matriz de Trazabilidad y Análisis Comparativo
+- 7.1 Matriz de trazabilidad
+- 7.2 Análisis de cobertura (gaps y gold plating)
+- 7.3 Tabla comparativa de los tres tipos de modelos
+- 7.4 Conclusiones
+
+## Bibliografía
+
+## Anexos
+- A. Catálogo de atributos de requisitos
+  - A.1 Resumen de priorización
+- B. Registro ampliado de defectos y estado de corrección
+- C. Catálogo de diagramas y archivos fuente
+- D. Declaración de uso responsable de inteligencia artificial
+- E. Inventario de entregables
+
+---
+
+# Índice de tablas
+
+1. Requisitos Funcionales (RF) – Línea base derivada.
+2. Requisitos No Funcionales (RNF) – Línea base derivada.
+3. Registro de defectos detectados en el SRS parcial.
+4. Requisitos funcionales reescritos con sintaxis EARS.
+5. Requisitos no funcionales reescritos con sintaxis EARS.
+6. Tabla de atributos de Requisitos Funcionales y No Funcionales.
+7. Entidades del modelo de datos y sus atributos.
+8. Relaciones del modelo de datos.
+9. Comprobación de balanceo entre el DFD Nivel 0 y el DFD Nivel 1.
+10. Matriz de Trazabilidad.
+11. Tabla comparativa de los tres tipos de modelos.
+12. Anexo A: Tabla completa de atributos de RF y RNF.
+13. Descripción de los atributos empleados para gestionar requisitos.
+14. Seguimiento ampliado de defectos del SRS.
+15. Catálogo de diagramas de la práctica.
+16. Archivos incluidos en el paquete de entrega.
+
+---
+
+# Índice de figuras
+
+1. Diagrama Entidad-Relación (Crow's Foot) – Sistema FabroGym.
+2. Diagrama de Clases UML – Sistema FabroGym.
+3. Diagrama de Contexto (DFD Nivel 0) – Sistema de Gestión FabroGym.
+4. DFD Nivel 1 – Sistema de Gestión FabroGym.
+5. DFD Esencial – Proceso Registrar Pago de Membresía.
+6. Diagrama de Actividades UML – CU Registrar Pago de Membresía.
+7. Diagrama de Máquina de Estados UML – Ciclo de vida de Membresía.
+8. Diagrama de Secuencia UML – Escenario Registrar Venta de Producto.
