@@ -1,0 +1,48 @@
+# Requisitos Funcionales
+
+### Gestión de clientes y membresías
+- **RF-01:** Registrar clientes con sus datos personales y tipo de membresía.
+- **RF-02:** Calcular automáticamente la fecha de vencimiento de la mensualidad.
+- **RF-03:** Alertar cuando una membresía esté vencida o próxima a vencer.
+- **RF-04:** Consultar el historial de pagos de cada cliente.
+
+### Gestión de inventario
+- **RF-05:** Registrar entradas y salidas de productos.
+- **RF-06:** Actualizar automáticamente el stock al realizar una venta.
+- **RF-07:** Alertar cuando un producto llegue al stock mínimo.
+- **RF-08:** Consultar el stock disponible antes de una venta.
+
+### Caja y facturación
+- **RF-09:** Registrar ventas de productos y emitir comprobantes.
+- **RF-10:** Calcular el flujo de caja diario.
+- **RF-11:** Generar facturación individual por empleado.
+
+### Gestión de personal
+- **RF-12:** Registrar trabajadores con diferentes roles.
+- **RF-13:** Mostrar interfaces según el rol del usuario.
+
+### Rutinas y seguimiento
+- **RF-14:** Asignar y registrar rutinas para cada cliente.
+- **RF-15:** Registrar el progreso físico del alumno.
+- **RF-16:** Notificar al instructor cuando ingrese un nuevo alumno.
+
+### Inteligencia Artificial
+- **RF-17:** Emitir recordatorios inteligentes de vencimientos.
+- **RF-18:** Ofrecer un asistente inteligente para resolver dudas sobre rutinas.
+
+### Reportes
+- **RF-19:** Generar reportes de ingresos diarios y mensuales.
+- **RF-20:** Generar reportes de productos más vendidos y niveles de stock.
+
+> **Nota:** Los requisitos relacionados con Inteligencia Artificial corresponden a funcionalidades previstas para futuras versiones del sistema.
+
+---
+
+# Requisitos No Funcionales
+
+- **RNF-01:** El sistema debe registrar ventas de forma rápida, incluso durante horas de mayor demanda.
+- **RNF-02:** El acceso a funciones administrativas y financieras debe estar restringido según el rol del usuario.
+- **RNF-03:** La interfaz debe ser fácil de utilizar para personal sin conocimientos técnicos.
+- **RNF-04:** El sistema debe permanecer disponible durante todo el horario de atención del gimnasio.
+- **RNF-05:** El sistema debe ser escalable para incorporar nuevos módulos, como un bar o una zona de suplementos.
+- **RNF-06:** La arquitectura debe permitir integrar nuevos módulos de Inteligencia Artificial en futuras versiones.
